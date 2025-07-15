@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Premchand006/LC/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Premchand006/LC/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Premchand006/LC/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
