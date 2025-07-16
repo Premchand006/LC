@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Premchand006/LC/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Premchand006/LC/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Premchand006/LC/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Premchand006/LC/tree/master/0022-generate-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/Premchand006/LC/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
@@ -64,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Premchand006/LC/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Premchand006/LC/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
