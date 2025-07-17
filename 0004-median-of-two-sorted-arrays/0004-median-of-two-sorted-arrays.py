@@ -16,5 +16,5 @@ class Solution(object):
         # If we have odd number of elements, return the middle one
         if total_count % 2 == 1:
             return float(all_numbers[middle])
-        
+            
         return (all_numbers[middle - 1] + all_numbers[middle]) / 2.0
