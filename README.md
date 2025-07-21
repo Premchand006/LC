@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Premchand006/LC/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Premchand006/LC/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Premchand006/LC/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Premchand006/LC/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Premchand006/LC/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Premchand006/LC/tree/master/0118-pascals-triangle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Premchand006/LC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Premchand006/LC/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Premchand006/LC/tree/master/0046-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
