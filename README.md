@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Premchand006/LC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Premchand006/LC/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Premchand006/LC/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Premchand006/LC/tree/master/0125-valid-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/Premchand006/LC/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Premchand006/LC/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Premchand006/LC/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
