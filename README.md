@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Premchand006/LC/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Premchand006/LC/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
