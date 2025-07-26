@@ -16,5 +16,4 @@ class Solution(object):
                 prefix = prefix[:-1]
                 if not prefix:
                     return ""
-
         return prefix
