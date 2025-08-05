@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Premchand006/LC/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Premchand006/LC/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Premchand006/LC/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Premchand006/LC/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Premchand006/LC/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Premchand006/LC/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
