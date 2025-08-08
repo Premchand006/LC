@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Premchand006/LC/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Premchand006/LC/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Premchand006/LC/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/Premchand006/LC/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Premchand006/LC/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Premchand006/LC/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Premchand006/LC/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Premchand006/LC/tree/master/0205-isomorphic-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/Premchand006/LC/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
