@@ -6,8 +6,18 @@
 #         self.right = right
 class Solution(object):
     def inorderTraversal(self, root):
-        if not root:
-            return []
-        return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
+        """
+        :type root: Optional[TreeNode]
+        :rtype: List[int]
+        """
+        result = []
 
-        
+        def inorder(node):
+            if not node:
+                return
+            inorder(node.left)       # Step 1: Left subtree
+            result.append(node.val)  # Step 2: Root
+            inorder(node.right)      # Step 3: Right subtree
+
+        inorder(root)
+        return result
