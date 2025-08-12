@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Premchand006/LC/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Premchand006/LC/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Premchand006/LC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Premchand006/LC/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Premchand006/LC/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Premchand006/LC/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Premchand006/LC/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Premchand006/LC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Premchand006/LC/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Premchand006/LC/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Premchand006/LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Premchand006/LC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -170,10 +173,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Premchand006/LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Premchand006/LC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Premchand006/LC/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Premchand006/LC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
