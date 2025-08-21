@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Premchand006/LC/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Premchand006/LC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Premchand006/LC/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Premchand006/LC/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Premchand006/LC/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Premchand006/LC/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Premchand006/LC/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Premchand006/LC/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Premchand006/LC/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Premchand006/LC/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Premchand006/LC/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Premchand006/LC/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Premchand006/LC/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
